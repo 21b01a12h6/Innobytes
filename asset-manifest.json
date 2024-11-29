@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Innobytes/static/css/main.0906c2db.css",
+    "main.js": "/Innobytes/static/js/main.38020a03.js",
+    "static/js/453.560a176a.chunk.js": "/Innobytes/static/js/453.560a176a.chunk.js",
+    "static/media/out.jpg": "/Innobytes/static/media/out.3f0345578753e5672b9b.jpg",
+    "static/media/flower.jpg": "/Innobytes/static/media/flower.6ca69840b9c8e0d7cbcd.jpg",
+    "static/media/fa-solid-900.ttf": "/Innobytes/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/recep.jpg": "/Innobytes/static/media/recep.0f616ee6d0575a5502b3.jpg",
+    "static/media/palash.webp": "/Innobytes/static/media/palash.f542206031da97c86d08.webp",
+    "static/media/ayodhya.webp": "/Innobytes/static/media/ayodhya.f15544cda482bc178192.webp",
+    "static/media/fa-brands-400.ttf": "/Innobytes/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/room1.jpg": "/Innobytes/static/media/room1.7bb2016589e3a067e88c.jpg",
+    "static/media/fa-solid-900.woff2": "/Innobytes/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/small.jpg": "/Innobytes/static/media/small.004ee162cd79856f18cc.jpg",
+    "static/media/large.jpg": "/Innobytes/static/media/large.f6bdaca0cda5c1bc7251.jpg",
+    "static/media/fa-brands-400.woff2": "/Innobytes/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/Innobytes/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/baranti.webp": "/Innobytes/static/media/baranti.54745f305a8ffb080bf3.webp",
+    "static/media/fa-regular-400.woff2": "/Innobytes/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Innobytes/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Innobytes/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/Innobytes/index.html",
+    "main.0906c2db.css.map": "/Innobytes/static/css/main.0906c2db.css.map",
+    "main.38020a03.js.map": "/Innobytes/static/js/main.38020a03.js.map",
+    "453.560a176a.chunk.js.map": "/Innobytes/static/js/453.560a176a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0906c2db.css",
+    "static/js/main.38020a03.js"
+  ]
+}
