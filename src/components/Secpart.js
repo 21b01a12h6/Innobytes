@@ -24,8 +24,8 @@ const Secpart = () => {
                     hidden gems of Purulia, creating memories that linger long after your stay.
                 </p>
                 <p className="address">
-                    <strong>Address:</strong> Beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156<br />
-                    <strong>Contact us:</strong> +91 9007062180
+                    <strong>Address: Beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156</strong><br />
+                    <strong>Contact us: +91 9007062180</strong>
                 </p>
                 <button className="book-button">Book Now</button>
             </div>
